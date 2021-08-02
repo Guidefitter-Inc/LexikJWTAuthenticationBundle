@@ -1,5 +1,5 @@
 {
-    "name": "guidefitter/jwt-authentication-bundle",
+    "name": "lexik/jwt-authentication-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides JWT authentication for your Symfony REST API",
     "keywords": ["Symfony", "bundle", "jwt", "jws", "authentication", "api", "rest"],
